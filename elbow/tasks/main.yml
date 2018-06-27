@@ -1,0 +1,6 @@
+---
+# tasks file for elbow
+
+- name: say hi
+  shell: echo 'Hi Everybody'
+
